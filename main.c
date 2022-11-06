@@ -2,6 +2,7 @@
 
 int main(void)
 {
+
    char *num = {"Hello"};
    printf("%s\n", num);
   
